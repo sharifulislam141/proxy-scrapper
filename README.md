@@ -48,11 +48,11 @@ After running, all proxies will be saved in proxies.txt.
 
 ## Notes
 
-# Make sure you have a stable internet connection.
+- Make sure you have a stable internet connection.
 
-# The script only scrapes SOCKS5 proxies.
+- The script only scrapes SOCKS5 proxies.
 
-# Modify the URL if you want to filter by country or protocol.
+- Modify the URL if you want to filter by country or protocol.
 ## License
 
 This project is open-source and available under the MIT License.
